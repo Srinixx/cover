@@ -133,9 +133,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image-1.png)
+<img width="960" alt="image-1" src="https://github.com/Srinixx/cover/assets/132982592/283e01df-ed6e-48fc-baf3-d0aa8b2c413b">
 
-![Alt text](image.png)
+<img width="960" alt="image" src="https://github.com/Srinixx/cover/assets/132982592/55419bd5-b894-4728-9dab-9211aed06240">
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
